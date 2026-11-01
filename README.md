@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭I'm currently building a bot<br>👯Let's build an AI agent<br>🤝I'm looking for help in learning about AI agents<br>🌱I'm currently learning Data Science and Analytics<br>☁️Ask me about Forex<br>⚡I love computers
+🔭I'm currently building a bot<br>👯Let's build an AI agent<br>🤝I'm looking for help in learning about AI agents<br>🌱I'm currently undertaking my BSc in Computer Science<br>☁️Ask me about Forex<br>⚡I love computers
 
 
 ## 🌐 Socials:
